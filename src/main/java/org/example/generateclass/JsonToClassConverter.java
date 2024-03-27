@@ -35,7 +35,7 @@ public class JsonToClassConverter {
     public static void main(String[] args) throws IOException {
         String jsonAbsoluteFilePath = "";
         URL jsonUrl = new URL("file:///" + jsonAbsoluteFilePath);
-        File destinationCatalog = new File("F:\\Projekty\\JsonUtils\\src\\main\\java\\org\\example\\jsontoclass");
+        File destinationCatalog = new File("");
         String packageName ="result";
         String newClassName = "Result";
         JsonToClassConverter.convertJsonToJavaClass(
