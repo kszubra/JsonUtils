@@ -1,4 +1,4 @@
-package org.example.jsontoclass;
+package org.example.generateclass;
 
 import com.sun.codemodel.JCodeModel;
 import org.jsonschema2pojo.*;
