@@ -1,0 +1,16 @@
+{
+  "name": "John Wick",
+  "area": "hr services",
+  "author": "Eugen",
+  "id": 32134,
+  "topics": [
+    "java",
+    "kotlin",
+    "cs",
+    "linux"
+  ],
+  "address": {
+    "city": "Bucharest",
+    "country": "Romania"
+  }
+}
